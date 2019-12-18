@@ -1,0 +1,20 @@
+{
+  "name": "baruchyan/test-package",
+  "description": "Test package",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Baruchyan Georgy",
+      "email": "g.baruchyan@gmail.com"
+    }
+  ],
+  "require": {
+
+  },
+  "require-dev": {
+    "kint-php/kint": "^3.2"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
