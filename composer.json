@@ -17,5 +17,11 @@
   },
   "autoload": {
     "classmap": ["src"]
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/baruchyan/test-package.git"
+    }
+  ]
 }
