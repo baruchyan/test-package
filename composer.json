@@ -1,6 +1,6 @@
 {
   "name": "baruchyan/test-package",
-  "description": "Test package",
+  "description": "Test package.",
   "prefer-stable": true,
   "minimum-stability": "dev-master",
   "license": "proprietary",
