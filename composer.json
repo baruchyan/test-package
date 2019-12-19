@@ -1,6 +1,7 @@
 {
   "name": "baruchyan/test-package",
   "description": "Test package",
+  "version": "1.0.0",
   "license": "proprietary",
   "authors": [
     {
