@@ -1,7 +1,6 @@
 {
   "name": "baruchyan/test-package",
   "description": "Test package....",
-  "prefer-stable": true,
   "license": "proprietary",
   "authors": [
     {
@@ -11,11 +10,5 @@
   ],
   "autoload": {
     "classmap": ["src"]
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/baruchyan/test-package.git"
-    }
-  ]
+  }
 }
