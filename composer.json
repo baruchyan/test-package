@@ -2,6 +2,7 @@
   "name": "baruchyan/test-package",
   "description": "Test package",
   "version": "1.0.0",
+  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {
