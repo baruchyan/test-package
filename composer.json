@@ -10,12 +10,6 @@
       "email": "g.baruchyan@gmail.com"
     }
   ],
-  "require": {
-
-  },
-  "require-dev": {
-    "kint-php/kint": "^3.2"
-  },
   "autoload": {
     "classmap": ["src"]
   },
